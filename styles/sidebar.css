@@ -1,0 +1,50 @@
+.sidebar{
+    width: 70px;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 55px;
+    left: 0;
+    bottom: 0;
+    align-items: center;
+    background-color: white;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(230, 230, 230);
+}
+
+
+.home{
+    margin-top: 20px;
+    width: 25px;
+}
+
+.explore{
+    margin-top: 35px;
+    width: 25px;
+}
+
+.subscriptions{
+    margin-top: 35px;
+    width: 25px;
+}
+
+.originals{
+    margin-top: 35px;
+    width: 25px;
+}
+
+.youtube-music{
+    margin-top: 35px;
+    width: 25px;
+}
+
+.library{
+    margin-top: 35px;
+    width: 25px;
+}
+
+.sidebarText{
+    margin-top: 5px;
+    font-size: 10px;
+}
